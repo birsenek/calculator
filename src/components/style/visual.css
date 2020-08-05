@@ -1,0 +1,9 @@
+.visual {
+    margin-left: 3em;
+    width: 245px;
+    height: 320px;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+}

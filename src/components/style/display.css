@@ -1,0 +1,10 @@
+.display {
+    font-size: 2em;
+    grid-column: span 4;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: snow;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+}
